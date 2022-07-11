@@ -525,6 +525,7 @@ img {
 .footer-list {
   display: flex;
   align-items: baseline;
+  justify-content: space-between;
   gap: 70px;
 }
 
@@ -801,7 +802,6 @@ img {
 }
 
 .modal-form {
-  margin-bottom: 20px;
 }
 
 .modal-form-label {
